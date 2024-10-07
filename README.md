@@ -19,3 +19,16 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) applicati
 - react-router-dom: Provides DOM bindings for React Router, enabling navigation in the application.
 - semantic-ui-react: React components library for UI elements.
 - react-top-loading-bar: Component for displaying a loading progress bar.
+
+- ## Output .......
+- ![Screenshot 2024-10-07 090601](https://github.com/user-attachments/assets/0bbbeab2-d436-4c6a-8b42-5f0675557f2a)
+
+
+![Screenshot 2024-10-07 090637](https://github.com/user-attachments/assets/df702e8d-f777-4977-a489-1c822a67e53b)
+
+-![Screenshot 2024-10-07 090726](https://github.com/user-attachments/assets/e32b8907-d8ef-408a-bbf8-44ec5b110366)
+
+
+-![Screenshot 2024-10-07 090754](https://github.com/user-attachments/assets/621161e9-de0a-4853-84de-d03186cf8f52)
+
+
